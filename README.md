@@ -24,5 +24,6 @@ npm run build
 ## Start Server
 
 ```bash
+cd build
 npx statikk --port 8000 --coi
 ```
